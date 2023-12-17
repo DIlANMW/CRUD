@@ -1,3 +1,9 @@
+Databse:
+
+1. Install mysql workbench
+2. Make databse name "items"
+3. Import items_devices.sql file into databse
+
 Run client
 
     1. cd client
